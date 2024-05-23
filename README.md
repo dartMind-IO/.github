@@ -8,8 +8,6 @@ Welcome to DartMind, a leading provider of innovative tools and resources for Da
 
 At DartMind, we have a portfolio of exciting projects aimed at revolutionizing the way developers work with Dart. Here are some of our flagship projects:
 
-### Codepad
-
 ![Codepad.io Logo](images/codepad_logo.svg)
 
 [Codepad](https://codepad.dartmind.io) is a web-based code editor designed specifically for Dart projects. It offers a comprehensive and user-friendly environment for developers to write, edit, and run Dart code directly in their web browser. With features like real-time previews, flexible layout options, and seamless code sharing, Codepad.io is the ultimate tool for Dart developers.
