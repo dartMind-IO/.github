@@ -1,6 +1,6 @@
 # DartMind
 
-![DartMind Logo](images/dartmind-logo.png)
+![DartMind Logo](images/dartmind_logo.svg)
 
 Welcome to DartMind, a leading provider of innovative tools and resources for Dart developers. Our mission is to empower the Dart community with cutting-edge solutions that enhance developer productivity and streamline the development process.
 
@@ -8,13 +8,13 @@ Welcome to DartMind, a leading provider of innovative tools and resources for Da
 
 At DartMind, we have a portfolio of exciting projects aimed at revolutionizing the way developers work with Dart. Here are some of our flagship projects:
 
-### Codepad.io
+### Codepad
 
-![Codepad.io Logo](images/codepad-logo.png)
+![Codepad.io Logo](images/codepad_logo.svg)
 
-[Codepad.io](https://codepad.dartmind.io) is a web-based code editor designed specifically for Dart projects. It offers a comprehensive and user-friendly environment for developers to write, edit, and run Dart code directly in their web browser. With features like real-time previews, flexible layout options, and seamless code sharing, Codepad.io is the ultimate tool for Dart developers.
+[Codepad](https://codepad.dartmind.io) is a web-based code editor designed specifically for Dart projects. It offers a comprehensive and user-friendly environment for developers to write, edit, and run Dart code directly in their web browser. With features like real-time previews, flexible layout options, and seamless code sharing, Codepad.io is the ultimate tool for Dart developers.
 
-### DartLint
+<!-- ### DartLint
 
 ![DartLint Logo](images/dartlint-logo.png)
 
@@ -24,7 +24,7 @@ At DartMind, we have a portfolio of exciting projects aimed at revolutionizing t
 
 ![DartDoc Logo](images/dartdoc-logo.png)
 
-[DartDoc](https://github.com/dartmind/dartdoc) is a documentation generator for Dart projects. It automatically generates beautiful and informative documentation based on your code's comments and annotations. DartDoc makes it easy to create and maintain comprehensive documentation for your Dart libraries and APIs.
+[DartDoc](https://github.com/dartmind/dartdoc) is a documentation generator for Dart projects. It automatically generates beautiful and informative documentation based on your code's comments and annotations. DartDoc makes it easy to create and maintain comprehensive documentation for your Dart libraries and APIs. -->
 
 ## Getting Involved
 
@@ -40,9 +40,9 @@ We believe in the power of collaboration and welcome contributions from the Dart
 
 We have a vibrant community of Dart developers who are passionate about building amazing things with Dart. Join us on the following platforms to connect with fellow developers, ask questions, and stay up to date with the latest news and updates from DartMind:
 
-- [Discord](https://discord.gg/dartmind)
-- [Twitter](https://twitter.com/dartmindio)
-- [GitHub Discussions](https://github.com/dartmind/discussions)
+- [Discord](https://discord.gg/dart_mind)
+- [Twitter](https://twitter.com/dartmind)
+- [GitHub Discussions](https://github.com/dartmind-IO/discussions)
 
 If you need any assistance or have inquiries, feel free to reach out to our support team at support@dartmind.io.
 
