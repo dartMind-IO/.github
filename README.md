@@ -1,5 +1,3 @@
-# DartMind
-
 ![DartMind Logo](images/dartmind_logo.svg)
 
 Welcome to DartMind, a leading provider of innovative tools and resources for Dart developers. Our mission is to empower the Dart community with cutting-edge solutions that enhance developer productivity and streamline the development process.
